@@ -8,7 +8,7 @@
 This repository contains folders for each teacher. Inside their folder, they upload their PDFs and other teaching materials. All materials automatically appear on the MANO Resources website.  
 
 
-## Quick Overview  
+## Overview  
 
 - Each teacher has **one personal folder**.  
 - The folder name must end with a unique **identifier**  
@@ -104,7 +104,7 @@ Full license text: [https://creativecommons.org/licenses/by-nc/4.0/](https://cre
 
 ## Need help?  
 
-If you’re stuck, open an **Issue** in this repo  
+If you’re stuck, open an **Issue** in this repository.  
 
 
 ## Thank you for contributing to MANO!
