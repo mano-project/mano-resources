@@ -36,7 +36,8 @@ This repository contains folders for each teacher. Inside their folder, they upl
 ### 3. **Create your folder**  
 
 1. Click **Add file → Create new file**  
-2. In the **file name** field, type your folder name like this:  Surname Name Affiliation ORCID/README.md
+2. In the **file name** field, type your folder name like this:
+   **Surname Name Affiliation ORCID/README.md**
 
 **Examples:**  
 - `Parma Michela University of Mainz 0000-0003-1959-2897/README.md`  
@@ -46,11 +47,11 @@ This repository contains folders for each teacher. Inside their folder, they upl
 
 📌 **Important:** Always include the identifier at the end followed by /README.md (no whitespaces between the ORCID number and /README.md).   
 
-3. In the large text box, just type "Placeholder" or, if you like, a short presentation of you and your teaching area.
+3. In the large text box, just type **Placeholder** or, if you like, a short presentation of you and your teaching area.
 
 4. Click **Commit changes**  
 
-✅ This will create your personal folder in the repo with an initial READ ME file.  
+This will create your personal folder in the repo with an initial READ ME file.  
 
 ---
 
@@ -63,16 +64,15 @@ This repository contains folders for each teacher. Inside their folder, they upl
 
 ---
 
-## 🔍 What happens next?  
+## What happens next?  
 
-- The system automatically:  
-  ✅ Detects your ORCID (or VIAF/GND)  
-  ✅ Retrieves your **correct name** from the identifier  
-  ✅ Lists all your PDFs in a searchable table on the [MANO Resources website](https://mano-project.github.io/resources.html)  
+The system automatically:  
+  - Detects your ORCID (or VIAF/GND)
+  - Retrieves your **correct name** from the identifier
+  - Lists all your PDFs in a searchable table on the [Resources section](https://mano-project.github.io/resources.html) of the MANO website 
 
----
 
-## ❓ FAQ  
+## FAQ  
 
 **1. I don’t have an ORCID. Can I still upload?**  
 Yes. Use your VIAF or GND ID. If you have none, just use:  Surname Name Affiliation/README.md
@@ -84,15 +84,13 @@ No problem. The system extracts the correct identifier automatically.
 **3. Can I organize my materials into subfolders?**  
 Yes! The website will still list all PDFs, even inside subfolders.  
 
----
 
-## ✅ Best Practices  
+## Best Practices  
 
 - Always include an identifier at the end of your folder name followed by /README.md.  
 - Use clear, descriptive filenames for your PDFs (e.g., `Introduction-to-TEI.pdf`).  
 - If you update materials later, just upload new files to your same folder.  
 
----
 
 ## License  
 
@@ -107,13 +105,11 @@ This means:
 
 Full license text: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)  
 
----
 
 ### Need help?  
 
-- If you’re stuck, open an **Issue** in this repo  
+If you’re stuck, open an **Issue** in this repo  
 
----
 
 **Thank you for contributing to MANO!**  
 Your materials help students and researchers learn and grow.  
