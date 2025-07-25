@@ -7,7 +7,6 @@
 
 This repository contains folders for each teacher. Inside their folder, they upload their PDFs and other teaching materials. All materials automatically appear on the MANO Resources website.  
 
----
 
 ## Quick Overview  
 
@@ -26,12 +25,10 @@ This repository contains folders for each teacher. Inside their folder, they upl
 - You need a free [GitHub account](https://github.com/signup).  
 - If you already have one, sign in.  
 
----
 
 ### 2. **Go to this repository**  
 ➡ [https://github.com/mano-project/mano-resources](https://github.com/mano-project/mano-resources)  
 
----
 
 ### 3. **Create your folder**  
 
@@ -53,7 +50,6 @@ This repository contains folders for each teacher. Inside their folder, they upl
 
 This will create your personal folder in the repo with an initial READ ME file.  
 
----
 
 ### 4. **Upload your PDFs**  
 
@@ -106,11 +102,11 @@ This means:
 Full license text: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)  
 
 
-### Need help?  
+## Need help?  
 
 If you’re stuck, open an **Issue** in this repo  
 
 
-**Thank you for contributing to MANO!**  
+## Thank you for contributing to MANO!
 Your materials help students and researchers learn and grow.  
 
